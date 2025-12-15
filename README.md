@@ -4,7 +4,7 @@ This tutorial demonstrates how to apply GMM clustering to identify different L2 
 
 The dataset comprises 54 LC features selected from an initial pool of 311 features extracted using a suite of NLP tools (Kyle, 2016; Kyle et al., 2018; Kyle et al., 2021), covering dimensions of lexical diversity, lexical sophistication, and syntactic complexity. Feature selection was conducted by examining Spearman’s rho correlations between each feature and proficiency level. We retained those features meaningfully associated with proficiency, defined as having an absolute correlation of at least 0.10 (Cohen, 2013).
 
-A complete list of all 311 extracted features is provided in the Excel file: Full List_Linguistic Complexity Features.xlsx. However, the dataset analyzed in the tutorial is not available. Please try to follow the steps using your own dataset. 
+A complete list of all 311 extracted features is provided in the Excel file: **Full List_Linguistic Complexity Features.xlsx**. However, the dataset analyzed in the tutorial is not available. Please try to follow the steps using your own dataset. 
 
 
 ### References
