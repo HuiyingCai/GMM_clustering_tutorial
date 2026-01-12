@@ -6,6 +6,9 @@ The dataset comprises 54 LC features selected from an initial pool of 311 featur
 
 A complete list of all 311 extracted features is provided in the Excel file: **Full List_Linguistic Complexity Features.xlsx**. However, the dataset analyzed in the tutorial is not available. Please try to follow the steps using your own dataset. 
 
+**Please use the following citation when using this code:**
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
+
 
 ### References
 
